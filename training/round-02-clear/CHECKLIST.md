@@ -9,6 +9,7 @@
 - [ ] `training/round-01-clear/` 참고자료 확인
 
 ## Gate 2 — 평가항목 먼저
+- [ ] [실제 동료평가 문항](docs/EVALUATION.md) 확인
 - [ ] 공식 요구사항과 기존 Evaluation 비교
 - [ ] 공식 요구 / 기존 평가 / AI 예상 질문 구분
 - [ ] Requirement → Implementation → Verification → Evidence → Evaluation 연결 초안 작성
