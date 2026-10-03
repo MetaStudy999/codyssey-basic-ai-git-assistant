@@ -2,8 +2,6 @@
 
 > **현재 Mission ID:** B3-2  
 > **미션명:** 내가 고친 코드 설명을 AI가 대신 써주는 도우미 만들기  
-> **Repository:** `MetaStudy999/codyssey-basic-ai-git-assistant`  
-> **출처:** 2026-10-03 코디세이 동료평가 화면 사진 OCR  
 
 ## 항목 1 — 실제 동작 확인
 
