@@ -10,7 +10,7 @@
 - 현재 제목: **내가 고친 코드 설명을 AI가 대신 써주는 도우미 만들기**
 - Repository: `MetaStudy999/codyssey-basic-ai-git-assistant`
 - 과거 Mission ID: `B6-2`
-- 기존 평가자료: 별도 공식 Evaluation 파일 없음 — 기존 Mission 요구사항과 평가 연습자료를 구분하여 사용
+- 현재 평가자료: [동료평가 문항](docs/EVALUATION.md) — 2026-10-03 실제 평가 화면 사진 OCR 기반\n- 과거 평가 연습자료: `training/round-01-clear/docs/evaluation-qa.md` — Round 01 참고용
 
 현재 번호·제목·공식 요구사항은 **제2기 현재 Mission PDF**를 최우선으로 사용한다. Repository의 과거 번호 파일은 동일 주제의 1기 참고자료로 사용한다.
 
@@ -37,7 +37,7 @@
 공통 운영 기준:
 [ROUND-02-MISSION-EXECUTION-STANDARD.md](https://github.com/MetaStudy999/codyssey-basic/blob/main/standards/ROUND-02-MISSION-EXECUTION-STANDARD.md)
 
-## 가장 효율적인 진행
+## 현재 동료평가 기준\n\n- [B3-2 Round 02 동료평가 문항](docs/EVALUATION.md)\n- 플랫폼의 최신 평가 화면이 변경되면 최신 화면을 우선한다.\n\n## 가장 효율적인 진행
 
 ```text
 1. 현재 미션 기준 확정
